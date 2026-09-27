@@ -1,0 +1,14 @@
+## Interface: 50400
+## Title: JaxPartyCastbars
+## Notes: Adds Party Frame Cast Bars attached to raid frames
+## Version: v2.0
+## Author: Jax
+## SavedVariables: jpcbDB
+Compat.lua
+#@no-lib-strip@
+Embeds.xml
+#@end-no-lib-strip@
+
+
+JaxPartyCastbars.lua
+Options.lua
